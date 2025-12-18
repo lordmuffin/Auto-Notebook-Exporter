@@ -1,0 +1,8 @@
+beautifulsoup4
+python-docx
+undetected-chromedriver
+msal
+office365-rest-python-client
+keyring
+keyrings.alt
+requests
